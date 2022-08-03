@@ -1,7 +1,7 @@
 ## Hi, I'm Sunil Kumar K P 👋
 
 <p>
-👑 I am a Web Developer <a href="#"> - My Portfolio website</a> <br> 
+👑 I am a Full Stack Engineer <a href="#"> - My Portfolio website</a> <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
