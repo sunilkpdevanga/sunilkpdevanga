@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I started my programming journey past in 2016 where I got to design and develop tours web application from scratch for one of my client. Ever since then I have been learning and building everything I can get my hands on. 
+I started 👑 Web Development 👑 journey past in 2016 where I got to design and develop tours web application from scratch for one of my client. Ever since then I have been learning and building everything I can get my hands on. 
 <br><br>
 I enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable, maintable, testable and efficient under the hood by providing engaging, pixel-perfect user experiences.
 
