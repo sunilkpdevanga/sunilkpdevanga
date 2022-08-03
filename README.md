@@ -19,7 +19,7 @@ I enjoy bridging the gap between engineering and design — combining my technic
 ✅ JavaScript / TypeScript <br>
 ✅ ReactJS / AngularJS <br>
 ✅ Material UI <br>
-✅ GraphQL / SQL / MongoDB <br>
+✅ GraphQL / SQL / PostGreSQL / MongoDB <br>
 ✅ NodeJS / ExpressJS <br>
 ✅ Next JS <br>
 ✅ System Design / AWS <br>
